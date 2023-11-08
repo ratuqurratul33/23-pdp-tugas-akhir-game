@@ -1,15 +1,44 @@
 #Job Interview
 
 ##1. Dokumen Rancangan
-###1. latar belakang 
-###2. Deskripsi dan alur cerita dari game
-###3. randing dari game
-####a. branding dari game
-####b. Deskripsi target pengguna
-####c. genre
-###4. User story, apa saja yang player bisa lakukan di game tersebut
+
+###1. latar belakang = Saya membuat game ini karena di era globalisasi dan jaman yang serba cepat membuat informasi, kecanggihan teknologi kian melesai segingga membuat kita malas untuk melalukan kegiatan sehat dan malas memilih makanan sehat dikarenakan kecanggihan teknologi dan tren tren makanan yang terus berkeliaran. Ini membuat saya berkeinginan memciptakan game gaya hidup sehat sederhana untuk mengingatkan kepada orang orang bahaya jika kita tidak memperhatikan gaya hidup dan pola makan, dalam game ini sayaa akan memberitahukan secara singkat sebab akibat dari perilaku makan dan pola hdup yang tidak teratur.
+
+###2. Deskripsi dan alur cerita dari game = Alur game ini akan memunculkan icon icon yang berkaitan dengan pola hidup dan makanan sehat dan kurang sehat, seperti icon: berolahraga, tidur bergadang, buah sayur, makanan fast food, minuman manis, lari pagi hari. dengan penambahan point F ( fast food)  = berat badan + 2, massa otot 0, lemak +3, kadar gula 0
+F ( fast food)  = berat badan + 2, massa otot 0, lemak +3, kadar gula 0
+M (minuman manis) = berat badan +1, massa otot -1, lema 0, kadar gula +2
+W (Work out) = berat badan -1, massa otot +2, lemak -2 , kadar gula -1
+L (Lari pagi) = berat badan -1, massa otot +2, lemak -1, kadar gula -1
+S (Sayur buah) = berat badan +0, massa otot 0, lemak -1, kadar gula -1
+B (bergadang) = = berat badan +0, massa otot -1, lemak , kadar gula 
+Mulanya keterangan user dimulai dari 0 dan akan bertmambah tiap user memangambil icon. Icon akan muncul secara random dalam peta. ketika user  mengambil icon dan melebihi dari angka yang ditentukan, informasi mengenai pola hidup user  akan di beritahukan dan game selesai. Jika user total point terbanyak pola sehat maka ia memenangkan game dan jika gaya hidup tak sehat dia kalah dan akan mendapat suatu informasi yaitu penyakit. 
+•	Keterangan aturan:
+Jika ingin berhasil mempunyai pola hidup sehat
+-	Berat badan harus <60 && massa otot > 10
+Jika gagal dan mengalami penyakit
+-	Lemak > 10 / kadar gula > 10
+-	Lemak >10 akan kolesterol
+-	Kadar gula > 10 akan obesitas
+jika tidak memenuhi kedua nya berhasil atau gagal, user harus mencoba lagi.
+tantangannya ada dalam batas waktu, batas waktu yang diberikan untuk mengambil icon dalam peta sebanyak 50x itu diumpamakan dengan 15 hari di dunia nyata
+
+###3. branding dari game
+####a. nama game = sehat mulai sekarang!
+####b. Deskripsi target pengguna = remaja sampai dewasa
+####c. genre = slice of life
+
+###4. User story, apa saja yang player bisa lakukan di game tersebut =
+sebelum game dimulai akan ada informasi aturan mengenai menang dan kalah nya user lalu
+mula mula player akan diberikan keterangan ; = berat badan = 60, massa otot = 0, lemak =0, kadar gula = 0, 
+ketika user memanggambil salah satu icon ; berolahraga, tidur bergadang, buah sayur, makanan fast food, minuman manis, lari pagi hari akan menmabah pointtnya dan untuk setiap icon mempunya point tersendiri. 
+cara menggambil iconnya dengan berpindah di peta ke kanan dan kekiri tiap icon muncul sampai target point yang ingin di capai user.
+diatas peta akan diberi keterangan status user dan kesempatan berpindah user dalam peta dan dibawah peta akan diberi keterangan point tiap icon jika diambil.
+jika user sudah mencapai aturan sebelum kesempatan habis, game selesai dan akan muncul informasi mengenai kesehatan user.
+jikakesempatan berpindah habis, game selesai dan akan muncul informasi mengenai kesehatan user.
+
 ###5. Desain user interface
 ###6. Flow chart dari algoritma buatan sendiri yang digunakan pada game tersebut
+
 ###9. Game menerapkan prinsip-prinsip dasar pemrograman seperti
 ####a. Variable
 ####b. Data type
