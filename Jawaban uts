@@ -2,7 +2,24 @@
 
 ##1. Dokumen Rancangan
 ###1. latar belakang 
-###2.  
+###2. Deskripsi dan alur cerita dari game
+###3. randing dari game
+####a. branding dari game
+####b. Deskripsi target pengguna
+####c. genre
+###4. User story, apa saja yang player bisa lakukan di game tersebut
+###5. Desain user interface
+###6. Flow chart dari algoritma buatan sendiri yang digunakan pada game tersebut
+###9. Game menerapkan prinsip-prinsip dasar pemrograman seperti
+####a. Variable
+####b. Data type
+####c. Operator
+####d. Boolean
+####e. Conditions: If / else / switch
+####f. Looping: while / for
+####g. Array
+####h. Method
+####i. Class
 
 ##2. Penggunaan variable, Data type & Variable
 
