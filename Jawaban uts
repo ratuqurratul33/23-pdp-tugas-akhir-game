@@ -1,63 +1,60 @@
-#Job Interview
-##1. latar belakang = Saya membuat game ini karena di era globalisasi dan jaman yang serba cepat membuat informasi, kecanggihan teknologi kian melesai segingga membuat kita malas untuk melalukan kegiatan sehat dan malas memilih makanan sehat dikarenakan kecanggihan teknologi dan tren tren makanan yang terus berkeliaran. Ini membuat saya berkeinginan memciptakan game gaya hidup sehat sederhana untuk mengingatkan kepada orang orang bahaya jika kita tidak memperhatikan gaya hidup dan pola makan, dalam game ini sayaa akan memberitahukan secara singkat sebab akibat dari perilaku makan dan pola hdup yang tidak teratur.
+# Game "Mencari Ruang Kelas"
+## 1. Latar Belakang
+  <p> Saya membuat game ini karena di era globalisasi dan jaman yang serba cepat membuat informasi, kecanggihan teknologi kian melesai segingga membuat kita malas untuk melalukan kegiatan sehat dan malas memilih makanan sehat dikarenakan kecanggihan teknologi dan tren tren makanan yang terus berkeliaran. Ini membuat saya berkeinginan memciptakan game gaya hidup sehat sederhana untuk mengingatkan kepada orang orang bahaya jika kita tidak memperhatikan gaya hidup dan pola makan, dalam game ini sayaa akan memberitahukan secara singkat sebab akibat dari perilaku makan dan pola hdup yang tidak teratur.
+</p>
+ 
+## 2. Deksripsi
+  Game "good life good health"  bercerita tentang sesorang yang menentukan gaya hidupnya melalui gaya hidup dan pola makan yang dia lakukan.
+## 3. Branding
+### A. Nama/Merk Game :
+Mencari Ruang Kelas
+### B. Deskripsi Target User :
+- Usia 10 tahun ke atas
+- Seorang yang mencari hiburan saat bermain game
+### C. Genre :
+- Simulation
 
-###2. Deskripsi dan alur cerita dari game = Alur game ini akan memunculkan icon icon yang berkaitan dengan pola hidup dan makanan sehat dan kurang sehat, seperti icon: berolahraga, tidur bergadang, buah sayur, makanan fast food, minuman manis, lari pagi hari. dengan penambahan point F ( fast food)  = berat badan + 2, massa otot 0, lemak +3, kadar gula 0
-M ( fast food)  = berat badan + 2, massa otot 0, lemak +3, kadar gula 0
-S (Sweet drink) = berat badan +1, massa otot -1, lema 0, kadar gula +2
-B (Berolahraga) = berat badan -1, massa otot +2, lemak -2 , kadar gula -1
-L (Lari pagi) = berat badan -1, massa otot +2, lemak -1, kadar gula -1
-S (Sayur buah) = berat badan +0, massa otot 0, lemak -1, kadar gula -1
-Z (bergadang) = = berat badan +0, massa otot -1, lemak , kadar gula 
-Mulanya keterangan user dimulai dari 0 dan akan bertmambah tiap user memangambil icon. Icon akan muncul secara random dalam peta. ketika user  mengambil icon dan melebihi dari angka yang ditentukan, informasi mengenai pola hidup user  akan di beritahukan dan game selesai. Jika user total point terbanyak pola sehat maka ia memenangkan game dan jika gaya hidup tak sehat dia kalah dan akan mendapat suatu informasi yaitu penyakit. 
-•	Keterangan aturan:
-Jika ingin berhasil mempunyai pola hidup sehat
--	Berat badan harus <60 && massa otot > 10
-Jika gagal dan mengalami penyakit
--	Lemak > 10 / kadar gula > 10
--	Lemak >10 akan kolesterol
--	Kadar gula > 10 akan obesitas
-jika tidak memenuhi kedua nya berhasil atau gagal, user harus mencoba lagi.
-tantangannya ada dalam batas waktu, batas waktu yang diberikan untuk mengambil icon dalam peta sebanyak 50x itu diumpamakan dengan 15 hari di dunia nyata
+## 4. User Story
 
-###3. branding dari game
-####a. nama game = sehat mulai sekarang!
-####b. Deskripsi target pengguna = remaja sampai dewasa
-####c. genre = slice of life
+Sebagai | Saya Ingin Bisa | Sehingga | Prioritas
+---|---|---|---
+Player | Berjalan menuju kelas | Bisa tempati kelas | ⭐⭐⭐⭐⭐
+Player | Menemukan kelas | Bisa untuk belajar | ⭐⭐⭐⭐⭐
+Player | Menemukan jalan lain | Bisa terhindar dari kejaran seekor anjing | ⭐⭐⭐⭐⭐
 
-###4. User story, apa saja yang player bisa lakukan di game tersebut =
-sebelum game dimulai akan ada informasi aturan mengenai menang dan kalah nya user lalu
-mula mula player akan diberikan keterangan ; = berat badan = 60, massa otot = 0, lemak =0, kadar gula = 0, 
-ketika user memanggambil salah satu icon ; berolahraga, tidur bergadang, buah sayur, makanan fast food, minuman manis, lari pagi hari akan menmabah pointtnya dan untuk setiap icon mempunya point tersendiri. 
-cara menggambil iconnya dengan berpindah di peta ke kanan dan kekiri tiap icon muncul sampai target point yang ingin di capai user.
-diatas peta akan diberi keterangan status user dan kesempatan berpindah user dalam peta dan dibawah peta akan diberi keterangan point tiap icon jika diambil.
-jika user sudah mencapai aturan sebelum kesempatan habis, game selesai dan akan muncul informasi mengenai kesehatan user.
-jikakesempatan berpindah habis, game selesai dan akan muncul informasi mengenai kesehatan user.
+## 5. Desain User Interface
+![kelas](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/8a41f3e5-4813-4ec5-ac2c-207e428875b8)
 
-###5. Desain user interface
-###6. Flow chart dari algoritma buatan sendiri yang digunakan pada game tersebut
 
-###9. Game menerapkan prinsip-prinsip dasar pemrograman seperti
-####a. Variable
-####b. Data type
-####c. Operator
-####d. Boolean
-####e. Conditions: If / else / switch
-####f. Looping: while / for
-####g. Array
-####h. Method
-####i. Class
+## 6. Flowchart dari Algoritma
 
-##2. Penggunaan variable, Data type & Variable
+mermaid
+flowchart TD
+    A[Mulai] <-->B[Mencari ruang kelas]
+    B <--> C[Gangguan Di jegat anjing]
+    C <--> D[Mencari jalan lain]
+    D <--> E[ruang kelas ditemukan]
+    E <--> F[Permainan selesai]
 
-##3. Penggunaan boolean dan conditions
 
-##4. Penggunaan looping dan array
+## 7. Link demo game di youtube
 
-##5. Penggunaan method
+[In Progress]
 
-##6. Penggunaan class
+## 8. Link folder kode pemrograman dari game
 
-##7. jelaskan algoritma buatan sendiri 
+[In Progress]
 
+## 9. Game menerapkan prinsip-prinsip dasar pemrograman seperti
+
+   - Variable
+   - Data Type
+   - Operator
+   - Boolean
+   - Conditions: if / else / switch
+   - Looping: while / for
+   - Array
+   - Method
+   - Class
 
 
