@@ -23,7 +23,8 @@ Player | Menemukan kelas | Bisa untuk belajar | ⭐⭐⭐⭐⭐
 Player | Menemukan jalan lain | Bisa terhindar dari kejaran seekor anjing | ⭐⭐⭐⭐⭐
 
 ## 5. Desain User Interface
-![kelas](https://github.com/BaidhowiAlHuseiniHakiki/BaidhowiAlHuseiniHakiki/assets/144520859/8a41f3e5-4813-4ec5-ac2c-207e428875b8)
+![Uploading image.png…]()
+
 
 
 ## 6. Flowchart dari Algoritma
