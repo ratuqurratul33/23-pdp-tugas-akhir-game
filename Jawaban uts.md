@@ -49,7 +49,7 @@ flowchart TD
 
 ## 9. Game menerapkan prinsip-prinsip dasar pemrograman seperti
 
-   - Variable
+   - Variable 
    - Data Type
    - Operator
    - Boolean
@@ -58,5 +58,7 @@ flowchart TD
    - Array
    - Method
    - Class
+
+# 2.Bagaimana konsep variable, data type dan operator pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 
 
