@@ -23,7 +23,8 @@ Player | Menemukan kelas | Bisa untuk belajar | ⭐⭐⭐⭐⭐
 Player | Menemukan jalan lain | Bisa terhindar dari kejaran seekor anjing | ⭐⭐⭐⭐⭐
 
 ## 5. Desain User Interface
-![Uploading image.png…]()
+![image](https://github.com/ratuqurratul33/23-pdp-tugas-akhir-game/assets/145249741/8e3f817e-ce5f-409f-96dd-044df80db816)
+
 
 
 
