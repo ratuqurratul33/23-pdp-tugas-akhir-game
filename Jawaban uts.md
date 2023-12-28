@@ -47,7 +47,7 @@ flowchart TD
 
 ## 8. Link folder kode pemrograman dari game
 
-healtyLife.java
+[healtyLife.java](https://github.com/ratuqurratul33/23-pdp-tugas-akhir-game/blob/main/healtyLife.java)
 
 ## 9. Game menerapkan prinsip-prinsip dasar pemrograman seperti
 
@@ -55,8 +55,8 @@ healtyLife.java
    - Data Type
    - Operator
    - Boolean
-   - Conditions: if / else / switch
-   - Looping: while / for
+   - Conditions: if, else & switch
+   - Looping: while & for
    - Array
    - Method
    - Class
