@@ -4,7 +4,7 @@
 </p>
  
 ## 2. Deksripsi
- Game "Healty Life""  bercerita tentang sesorang yang menntukan pola hidupnya melalui kegiatan dan pola makan yang dia lakukan. Dari pola itulah bisa sihasilkan suatu kesimpulan jika dia terlalu bayak makan dan minum yang kurang sehat bisa menyebabkan penyait, penyakit kolesterol jika lemak berlebihan, penyakit diabetes jika kadar gula berlebihan dan maslaah obesitas jika berat badan sudah berlebihan. Tetapi jika diimbangi dengan memakan makanan sehat dan berkegiatan sehat pasti pemain akan memenangkan game ini dimna tujuannya adalah hidup sehat. Berati memenangkan game ini player telat mengikuti hidup sehat.
+ Game "Healty Life""  bercerita tentang sesorang yang menntukan pola hidupnya melalui kegiatan dan pola makan yang dia lakukan. Dari pola itulah bisa sihasilkan suatu kesimpulan jika dia terlalu bayak makan dan minum yang kurang sehat bisa menyebabkan penyakit, penyakit kolesterol jika lemak berlebihan, penyakit diabetes jika kadar gula berlebihan dan masalaah obesitas jika berat badan sudah berlebihan. Tetapi jika diimbangi dengan memakan makanan sehat dan berkegiatan sehat pasti pemain akan memenangkan game ini dimna tujuannya adalah hidup sehat. Berati memenangkan game ini player telat mengikuti hidup sehat.
 
 Dalam game ini untuk melakukan kegiatan kegiatan tersebut plyer harus bergerak dan mengambil icon sesuai yang dibutuhkan untuk menambahkan dan mengurangi status  berat bada, massa otot, kadar gula  serta lemak. sehingga ketika status kesehatan mencapai targer game pun berakhir.
 
@@ -72,13 +72,13 @@ player | mengambil icon | mengubah status kesehatan | ⭐⭐⭐⭐⭐
 -int fat
 -int langkah 
 
-operator disini saya gunakan dalam pengkondisian untuk menghitung status pemain ketika mengambil icon (setiap icon memiliki nilai)
+operator disini saya gunakan dalam pengkondisian untuk menghitung status pemain ketika mengambil icon (setiap icon memiliki nilai) ada didalam method checIcon() menggunakan if else
 
 # 3. Bagaimana konsep boolean dan conditions pada bahasa pemrograman digunakan dalam pembuatan game ini ?
-konsep boolean yang saya gunakan disini untuk memampilkan keterangan nilai nilai icon, jadi jika true nilai icon akan tampil dibawah peta 
+konsep boolean yang saya gunakan disini untuk memampilkan keterangan nilai nilai icon, jadi jika true nilai icon akan tampil dibawah peta dan untuk meminta input pengguna untuk arahan atas bawah kanan kikri, akan berhenti ketika game sudah berhenti
 ( memakai while=true)
 
-konsep kondisi, kondisi dipakai untuk menentukan akhir gamee, sitem game ini jika pemain menggambil karakter samapi status memasuki batas tertentu makan akan ditentukan hasilnya.
+konsep kondisi, kondisi dipakai untuk menentukan akhir gamee, sistem game ini jika pemain menggambil karakter sampai status memasuki batas tertentu makan akan ditentukan hasilnya.
 Jika statusweight <= 50 && muscleMass == 10  maka permainan berakhir menang karna sehat 
 jika status  sugar > 5 maka permainan berakhir dan kalah juga mempunyai diabtes
 jika status  fat > 5 maka permainan berakhir dan kalah juga mempunyai cholesterol
