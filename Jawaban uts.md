@@ -21,6 +21,10 @@ pertama Player | Berjalan dalam peta | bisa mengambil icon
 kedua Player | mengambil icon |status berubah
 
 ## 5. Desain User Interface
+![image](https://github.com/ratuqurratul33/23-pdp-tugas-akhir-game/assets/145249741/c0e08808-97e0-445f-9b58-c6a20cc8c82d)
+![image](https://github.com/ratuqurratul33/23-pdp-tugas-akhir-game/assets/145249741/7af524a7-5a06-4638-abb3-70aa99944d33)
+![image](https://github.com/ratuqurratul33/23-pdp-tugas-akhir-game/assets/145249741/8f9bbbd6-6652-4d1c-91ee-43748cf22e98)
+
 
 
 
