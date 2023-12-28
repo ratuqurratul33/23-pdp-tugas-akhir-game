@@ -19,6 +19,11 @@ Healty Life
 
 ## 4. User Story dan struktur data
 ### user story
+sebagai | saya ingin bisa | sehingga | prioritas
+---|---|---|---
+player | bergerak | menelurusuri peta| ⭐⭐⭐⭐⭐
+player | mengambil icon | mengubah status kesehatan | ⭐⭐⭐⭐⭐
+
 ### struktur data
 ![image](https://github.com/ratuqurratul33/23-pdp-tugas-akhir-game/assets/145249741/97ca8874-b0ab-48b7-a755-dce2094d08a7)
 
