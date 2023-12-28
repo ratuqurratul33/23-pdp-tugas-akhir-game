@@ -4,8 +4,9 @@
 </p>
  
 ## 2. Deksripsi
-### Game "Healty Life""  bercerita tentang sesorang yang menntukan pola hidupnya melalui kegiatan dan pola makan yang dia lakukan. Dari pola itulah bisa sihasilkan suatu kesimpulan jika dia terlalu bayak makan dan minum yang kurang sehat bisa menyebabkan penyait, penyakit kolesterol jika lemak berlebihan, penyakit diabetes jika kadar gula berlebihan dan maslaah obesitas jika berat badan sudah berlebihan. Tetapi jika diimbangi dengan memakan makanan sehat dan berkegiatan sehat pasti pemain akan memenangkan game ini dimna tujuannya adalah hidup sehat. Berati memenangkan game ini player telat mengikuti hidup sehat.
-### Dalam game ini untuk melakukan kegiatan kegiatan tersebut plyer harus bergerak dan mengambil icon sesuai yang dibutuhkan untuk menambahkan dan mengurangi status  berat bada, massa otot, kadar gula  serta lemak. sehingga ketika status kesehatan mencapai targer game pun berakhir.
+ Game "Healty Life""  bercerita tentang sesorang yang menntukan pola hidupnya melalui kegiatan dan pola makan yang dia lakukan. Dari pola itulah bisa sihasilkan suatu kesimpulan jika dia terlalu bayak makan dan minum yang kurang sehat bisa menyebabkan penyait, penyakit kolesterol jika lemak berlebihan, penyakit diabetes jika kadar gula berlebihan dan maslaah obesitas jika berat badan sudah berlebihan. Tetapi jika diimbangi dengan memakan makanan sehat dan berkegiatan sehat pasti pemain akan memenangkan game ini dimna tujuannya adalah hidup sehat. Berati memenangkan game ini player telat mengikuti hidup sehat.
+
+Dalam game ini untuk melakukan kegiatan kegiatan tersebut plyer harus bergerak dan mengambil icon sesuai yang dibutuhkan untuk menambahkan dan mengurangi status  berat bada, massa otot, kadar gula  serta lemak. sehingga ketika status kesehatan mencapai targer game pun berakhir.
 ## 3. Branding
 ### A. Nama/Merk Game :
 Healty Life
