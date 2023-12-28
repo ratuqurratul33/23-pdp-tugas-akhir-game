@@ -70,7 +70,9 @@ Healty Life
 operator disini saya gunakan dalam pengkondisian untuk menghitung status pemain ketika mengambil icon (setiap icon memiliki nilai)
 
 # 3. Bagaimana konsep boolean dan conditions pada bahasa pemrograman digunakan dalam pembuatan game ini ?
-konsep boolean yang saya gunakan disini untuk memampilkan satus serta keterangan nilai nilai icon, jadi 
+konsep boolean yang saya gunakan disini untuk memampilkan keterangan nilai nilai icon, jadi jika true nilai icon akan tampil dibawah peta 
+
+( line 22 mekamai while=true)
 
 # 4. Bagaimana konsep looping dan array pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 
