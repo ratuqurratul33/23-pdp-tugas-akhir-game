@@ -15,7 +15,11 @@ Healty Life
 ### C. Genre :
 - slice of life, simulation,
 
-## 4. User Story
+## 4. User Story dan struktur data
+### user story
+### struktur data
+![image](https://github.com/ratuqurratul33/23-pdp-tugas-akhir-game/assets/145249741/97ca8874-b0ab-48b7-a755-dce2094d08a7)
+
 
 
 ## 5. Desain User Interface
@@ -26,14 +30,8 @@ Healty Life
 
 
 ## 6. Flowchart dari Algoritma
+![image](https://github.com/ratuqurratul33/23-pdp-tugas-akhir-game/assets/145249741/8a8ace61-5404-44ee-8d9a-ab3e285f8e1d)
 
-mermaid
-flowchart TD
-    A[Mulai] <-->B[Mencari ruang kelas]
-    B <--> C[Gangguan Di jegat anjing]
-    C <--> D[Mencari jalan lain]
-    D <--> E[ruang kelas ditemukan]
-    E <--> F[Permainan selesai]
 
 
 ## 7. Link demo game di youtube
@@ -42,7 +40,7 @@ flowchart TD
 
 ## 8. Link folder kode pemrograman dari game
 
-[healtyLife.java](https://github.com/ratuqurratul33/23-pdp-tugas-akhir-game/blob/main/healtyLife.java)
+(https://github.com/ratuqurratul33/23-pdp-tugas-akhir-game/blob/main/healtyLife.java)
 
 ## 9. Game menerapkan prinsip-prinsip dasar pemrograman seperti
 
