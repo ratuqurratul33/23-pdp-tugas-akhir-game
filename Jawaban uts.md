@@ -119,7 +119,11 @@ jadi fungsi ini merupakan logic matematik untuk menambhkan nilai pada status pem
 jadi method ini memperlihatkan kondisi pada pemain agar lebih bijak memilih icon untuk mencapai tujuan yaitu hidup sehat.
 
 # 6. Bagaimana konsep class pada bahasa pemrograman digunakan dalam pembuatan game ini ?
+dalam game ini saya menggunakan 1 class yaitu healtyLife, dimana didalamnnya ada atribut :  map ( map), posisi pemain ( playerY , palyerX, langkah ) dan  status kesehatan (muscleMAss, weight, sugar, fat)
+
+serta method method untuk menginisialisaisi, pengaturan peta, pergerakan pemain, pengecekan dan penambahan icon serta kesehatan pemain. 
 
 # 7. Jelaskan algoritma buatan sendiri yang digunakan pada pembuatan game ini !
+pertama setelah diberitahukan intruksi pemain masuk kedalam game, kedua mula mula akan ada beberapa icon acak lalu seiring pemain bergerak icon random akan muncul, icon ini bisa muncul dimana saja, di jendela permainanan pasti akan muncul keterangan tiap icon dan penejelasan serta pengauh kepada kesehatan, ketika pemain menggabil icon tersebut otomatis status akan bertambah dan berkurang sesuai nilai, pemain akan terus bergerak hingga hasilnya ditentukan, sesuai judul healtylife pemain harus bisa memilah icon yang sehat dari makanan samai kegiatan dan menghindari yang butuk, misalkan pemain berpola hodup( bergerak) buruk makan akan mendapat penyakit yang tidak diiinginkan dan sesuai dengan masalah yang dialami pemain. begitupun sebaliknya jika pemai pola hidup sehat maka akan memenangkan game.
 
 
