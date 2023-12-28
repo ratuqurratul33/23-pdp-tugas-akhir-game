@@ -43,7 +43,7 @@ flowchart TD
 
 ## 8. Link folder kode pemrograman dari game
 
-[In Progress]
+healtyLife.java
 
 ## 9. Game menerapkan prinsip-prinsip dasar pemrograman seperti
 
