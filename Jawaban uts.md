@@ -15,14 +15,13 @@
 
 ## 4. User Story
 
-Sebagai | Saya Ingin Bisa | Sehingga | Prioritas
+Sebagai | Saya Ingin Bisa | Sehingga
 ---|---|---|---
-Player | Berjalan menuju kelas | Bisa tempati kelas | ⭐⭐⭐⭐⭐
-Player | Menemukan kelas | Bisa untuk belajar | ⭐⭐⭐⭐⭐
-Player | Menemukan jalan lain | Bisa terhindar dari kejaran seekor anjing | ⭐⭐⭐⭐⭐
+pertama Player | Berjalan dalam peta | bisa mengambil icon 
+kedua Player | mengambil icon |status berubah
 
 ## 5. Desain User Interface
-![image](https://github.com/ratuqurratul33/23-pdp-tugas-akhir-game/assets/145249741/8e3f817e-ce5f-409f-96dd-044df80db816)
+
 
 
 
