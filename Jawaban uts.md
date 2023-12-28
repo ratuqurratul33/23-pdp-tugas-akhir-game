@@ -93,6 +93,30 @@ konsep array, menggunakan array 2 dimensi
 
 
 # 5. Bagaimana konsep method pada bahasa pemrograman digunakan dalam pembuatan game ini ?
+ada banyakmethod dalam class healty LIfe dengan penggunaan yang berbeda beda
+1. method utama yaitu method main = untuk menjalankan permainan karna isinya memnanggil method initializeMap(), dan printMap()
+jadi fungsi mehod ini sebagai inti program dan menjalankan permainannya dengan meanggil method lain untuk menjalakan logika permainanan ( while) dan menampilkan informasi ke pemain (tampilan).
+ 
+ 2. method untuk menginisialisasi map yaitu method  initializeMap() = memakai tipe data void karna tidk mengembalikan nilai. for untu mengisi peta dengan '.'  dan for selanjutnya mengisi karatetr . lalu terdapat juga penempatan ikon acak melalui method getRandomacak dan juga menggunakan kelas Random yang sudah diimpor di pustaka.
+jadi fungsi ini sebagai persiapan awal untuk mengatur map dan menmpatkan icon acak
+
+3. method untuk memunculkan icon random yaitu method getRandomIcon()= menggunakan tipe char sehingga mereturn karkter icon secara acak, kenapa acak karna menanggil kelas random dari impor pustaka.
+jadi fungsi ini berfungsi untuk menghasilkan karakter icon secara acak dari aray icon untuk digunakan dalam menentukan ikon ikn yg muncul di permainan/ peta.
+
+ 4. method untuk mencetak peta dalam bentuk matrix  yaitu method printMap() = 
+jadi fungsi ini memvisualkan peta dan menampilkan posisi user dan menggantikan icon yang sudah diambil menjadi bentuk '.' kembali
+
+5. method untuk memunculkan icon random di kordinat yaitu method munculDitempatRandom() = menggunakan void jadi tidak mengmbalikan nilai appun juga menggunakan objek random sehingga pada kordinay Y dan X icom bisa muncul acak.
+jadi fungsi ini menambhakan ikon tambahan ketika pemain mulai jadi akan terus ada icon.
+ 
+ 6. method untuk arah karakter yaitu method movePlayer() = memakai kondisi if untuk bergerak ke atas ( W)  Ke bawah (S) ke kanan (A) dan ke kri (D) juga ada peintah setiap melangkah 3x otomatis muncul random icom melalai pemanggilan mehod munculDitempatRandom
+jadi fungsi ini untuk arah bergerak dan otomatis munculin icon acak setiapp 3langkah
+
+7. method untuk chek icon dan menambhkan dalam statsus kesehatan pemain yaitu method checkIcon() = disini memakai logika matematik dan operation jika icon S(sport)  terambil maka muscleMass + 2; weight - 1; fat - 1; ,  jika iconR(run)  terambil maka muscleMass + 1; weight - 1; ,jika iconV(vegetable)  terambil maka  fat - 1; sugar-1 , jika icon D (sweet Drink)   terambil maka  weight +2; sugar +2 dan jika icon F(fastfood)  terambil maka fat +3; sugar +2
+jadi fungsi ini merupakan logic matematik untuk menambhkan nilai pada status pemain jika icon terambil sesuai keterangan tiap icon 
+ 
+ 8. method untuk memeriksa kesehatan yaitu method checkStatus()= dalam method ini terdapa s.o.pln dimanauntuk menmpilkan jendela status pada pemain dan meng update status kesehatan pemain tiap sesudah mengambil icon. dan jika kondisi buruk terpenuhi tampilan status tidak akan ditampilkan pada layar
+jadi method ini memperlihatkan kondisi pada pemain agar lebih bijak memilih icon untuk mencapai tujuan yaitu hidup sehat.
 
 # 6. Bagaimana konsep class pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 
