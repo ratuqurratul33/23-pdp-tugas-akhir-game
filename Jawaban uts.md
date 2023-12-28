@@ -71,8 +71,14 @@ operator disini saya gunakan dalam pengkondisian untuk menghitung status pemain 
 
 # 3. Bagaimana konsep boolean dan conditions pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 konsep boolean yang saya gunakan disini untuk memampilkan keterangan nilai nilai icon, jadi jika true nilai icon akan tampil dibawah peta 
-
 ( line 22 mekamai while=true)
+
+konsep kondisi, kondisi dipakai untuk menentukan akhir gamee, sitem game ini jika pemain menggambil karakter samapi status memasuki batas tertentu makan akan ditentukan hasilnya.
+Jika statusweight <= 50 && muscleMass == 10  maka permainan berakhir menang karna sehat 
+jika status  sugar > 5 maka permainan berakhir dan kalah juga mempunyai diabtes
+jika status  fat > 5 maka permainan berakhir dan kalah juga mempunyai cholesterol
+jika status  weight > 60 maka permainan berakhir dan kalah juga mempunyai obesitas
+( line 38-53 memakai if else)
 
 # 4. Bagaimana konsep looping dan array pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 
