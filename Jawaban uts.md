@@ -47,7 +47,6 @@ player | mengambil icon | mengubah status kesehatan | ⭐⭐⭐⭐⭐
 
 ## 8. Link folder kode pemrograman dari game
 
-(https://github.com/ratuqurratul33/23-pdp-tugas-akhir-game/blob/main/healtyLife.java)
 
 ## 9. Game menerapkan prinsip-prinsip dasar pemrograman seperti
 
@@ -124,8 +123,12 @@ jadi fungsi ini merupakan logic matematik untuk menambhkan nilai pada status pem
 jadi method ini memperlihatkan kondisi pada pemain agar lebih bijak memilih icon untuk mencapai tujuan yaitu hidup sehat.
 
 # 6. Bagaimana konsep class pada bahasa pemrograman digunakan dalam pembuatan game ini ?
-dalam game ini saya menggunakan 1 class yaitu healtyLife, dimana didalamnnya ada atribut :  map ( map), posisi pemain ( playerY , palyerX, langkah ) dan  status kesehatan (muscleMAss, weight, sugar, fat)
-
+-class utama nya bernama gameHealttyLife , ada atribut :  map ( map), posisi pemain ( playerY , palyerX, langkah ) dan  status kesehatan (muscleMAss, weight, sugar, fat)
+serta ada method main(String[] args)  yang berfungsi Menjalankan seluruh permainan, dalam fungsi ini terdapat OOP untuk memanggil fungsi lain.
+-class turunan
+1. class mapHandler = class mengenai peta atau penanggung jawab peta, terdapat beberapa method yaitu initializeMap() , getRandomIcon(), printMap(), munculDitempatRandom()
+2. class playerHandler = class mengenai perpindahan dan status player, terdapat method  movePlayer()
+3. class iconHandler = class yang menghandel status kesehatan layer dan keterangan icon, trdapat method checkIcon()  dan checkPlayer()
 serta method method untuk menginisialisaisi, pengaturan peta, pergerakan pemain, pengecekan dan penambahan icon serta kesehatan pemain. 
 
 # 7. Jelaskan algoritma buatan sendiri yang digunakan pada pembuatan game ini !
