@@ -43,10 +43,10 @@ player | mengambil icon | mengubah status kesehatan | ⭐⭐⭐⭐⭐
 
 ## 7. Link demo game di youtube
 
-[[In Progress]](https://www.youtube.com/watch?v=2jgUjX6AzkU)
+(https://www.youtube.com/watch?v=2jgUjX6AzkU)
 
 ## 8. Link folder kode pemrograman dari game
-
+https://github.com/ratuqurratul33/23-pdp-tugas-akhir-game/blob/main/gameHealthtyLife.java
 
 ## 9. Game menerapkan prinsip-prinsip dasar pemrograman seperti
 
