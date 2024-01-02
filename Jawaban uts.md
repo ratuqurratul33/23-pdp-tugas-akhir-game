@@ -26,7 +26,7 @@ player | mengambil icon | mengubah status kesehatan | ⭐⭐⭐⭐⭐
 
 ### struktur data
 ![image](https://github.com/ratuqurratul33/23-pdp-tugas-akhir-game/assets/145249741/97ca8874-b0ab-48b7-a755-dce2094d08a7)
-
+![Screenshot 2024-01-03 015119](https://github.com/ratuqurratul33/23-pdp-tugas-akhir-game/assets/145249741/83abdb78-11e0-4ca0-906c-453cf3dbdad5)
 
 
 ## 5. Desain User Interface
