@@ -43,7 +43,7 @@ player | mengambil icon | mengubah status kesehatan | ⭐⭐⭐⭐⭐
 
 ## 7. Link demo game di youtube
 
-[In Progress]
+[[In Progress]](https://www.youtube.com/watch?v=2jgUjX6AzkU)
 
 ## 8. Link folder kode pemrograman dari game
 
